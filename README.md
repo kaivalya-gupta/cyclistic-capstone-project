@@ -1,7 +1,8 @@
-### cyclistic-capstone-project
+#### cyclistic-capstone-project
 
 I completed a marketing analysis as part of the optional capstone project in Google's Data Analytics Professional Certificate
 Google Capstone Project
+This is the report I made based on the case study I chose.
 
 
 # Marketing Analysis Report 
